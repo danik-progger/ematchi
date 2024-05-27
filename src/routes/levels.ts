@@ -1,8 +1,8 @@
 export interface Level {
-    label: string;
-    size: number;
-    duration: number;
-    emojis: string[];
+	label: string;
+	size: number;
+	duration: number;
+	emojis: string[];
 }
 
 export const levels: Level[] = [
